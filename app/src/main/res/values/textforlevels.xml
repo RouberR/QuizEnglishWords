@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1text1">Медведь</string>
+    <string name="level1text2">Кот</string>
+    <string name="level1text3">Корова</string>
+    <string name="level1text4">Собака</string>
+    <string name="level1text5">Утка</string>
+    <string name="level1text6">Слон</string>
+    <string name="level1text7">Рыба</string>
+    <string name="level1text8">Лиса</string>
+    <string name="level1text9">Лягушка</string>
+    <string name="level1text10">Курица</string>
+    <string name="level1text11">Обезьяна</string>
+    <string name="level1text12">Мышь</string>
+    <string name="level1text13">Свинья</string>
+    <string name="level1text14">Кролик</string>
+    <string name="level1text15">Волк</string>
+
+    <string name="level1text1Eng">Bear  |ber|</string>
+    <string name="level1text2Eng">Cat  |kæt|</string>
+    <string name="level1text3Eng">Cow  |kaʊ|</string>
+    <string name="level1text4Eng">Dog  |dɔːɡ|</string>
+    <string name="level1text5Eng">Duck  |dʌk|</string>
+    <string name="level1text6Eng">Elephant  |ˈelɪfənt|</string>
+    <string name="level1text7Eng">Fish  |fɪʃ|</string>
+    <string name="level1text8Eng">Fox  |fɑːks|</string>
+    <string name="level1text9Eng">Frog  |frɔːɡ|</string>
+    <string name="level1text10Eng">Hen  |hen|</string>
+    <string name="level1text11Eng">Monkey  |ˈmʌŋkɪ|</string>
+    <string name="level1text12Eng">Mouse  |maʊs| </string>
+    <string name="level1text13Eng">Pig  |pɪɡ|</string>
+    <string name="level1text14Eng">Rabbit |ˈræbɪt|</string>
+    <string name="level1text15Eng">Wolf  |wʊlf|</string>
+
+
+
+    <string name="level2text1">Птица</string>
+    <string name="level2text2">Верблюд</string>
+    <string name="level2text3">Цыпленок</string>
+    <string name="level2text4">Крокодил</string>
+    <string name="level2text5">Олень</string>
+    <string name="level2text6">Жираф</string>
+    <string name="level2text7">Коза</string>
+    <string name="level2text8">Хомяк</string>
+    <string name="level2text9">Ёж</string>
+    <string name="level2text10">Лошадь</string>
+    <string name="level2text11">Лев</string>
+    <string name="level2text12">Бык</string>
+    <string name="level2text13">Овца</string>
+    <string name="level2text14">Змея</string>
+    <string name="level2text15">Черепаха</string>
+
+    <string name="level2text1Eng">Bird</string>
+    <string name="level2text2Eng">Camel</string>
+    <string name="level2text3Eng">Chicken</string>
+    <string name="level2text4Eng">Crocodile</string>
+    <string name="level2text5Eng">Deer</string>
+    <string name="level2text6Eng">Giraffe</string>
+    <string name="level2text7Eng">Goat</string>
+    <string name="level2text8Eng">Hamster</string>
+    <string name="level2text9Eng">Hedgehog</string>
+    <string name="level2text10Eng">Horse</string>
+    <string name="level2text11Eng">Lion</string>
+    <string name="level2text12Eng">Ox</string>
+    <string name="level2text13Eng">Sheep</string>
+    <string name="level2text14Eng">Snake</string>
+    <string name="level2text15Eng">Turtle</string>
+</resources>

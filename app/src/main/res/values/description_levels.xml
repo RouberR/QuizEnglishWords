@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1">Повторяем алфавит. \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level1end">Поздравляю уровень пройден! \n</string>
+
+    <string name="level2">Информация для второго уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+</resources>

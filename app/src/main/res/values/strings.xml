@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizEnglishWords</string>
+
+
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level_1">Уровень: 1</string>
+    <string name="level_2">Уровень: 2</string>
+    <string name="textcontinue">Продолжить</string>
+</resources>
