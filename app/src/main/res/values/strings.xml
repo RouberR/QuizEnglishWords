@@ -7,5 +7,12 @@
     <string name="level">Уровень:</string>
     <string name="level_1">Уровень: 1</string>
     <string name="level_2">Уровень: 2</string>
+    <string name="level_3">Уровень: 3</string>
+    <string name="level_4">Уровень: 4</string>
+    <string name="level_5">Уровень: 5</string>
+    <string name="level_6">Уровень: 6</string>
+    <string name="level_7">Уровень: 7</string>
+    <string name="level_8">Уровень: 8</string>
+    <string name="level_9">Уровень: 9</string>
     <string name="textcontinue">Продолжить</string>
 </resources>

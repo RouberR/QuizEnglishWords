@@ -16,21 +16,21 @@
     <string name="level1text14">Кролик</string>
     <string name="level1text15">Волк</string>
 
-    <string name="level1text1Eng">Bear  |ber|</string>
-    <string name="level1text2Eng">Cat  |kæt|</string>
-    <string name="level1text3Eng">Cow  |kaʊ|</string>
-    <string name="level1text4Eng">Dog  |dɔːɡ|</string>
-    <string name="level1text5Eng">Duck  |dʌk|</string>
-    <string name="level1text6Eng">Elephant  |ˈelɪfənt|</string>
-    <string name="level1text7Eng">Fish  |fɪʃ|</string>
-    <string name="level1text8Eng">Fox  |fɑːks|</string>
-    <string name="level1text9Eng">Frog  |frɔːɡ|</string>
-    <string name="level1text10Eng">Hen  |hen|</string>
-    <string name="level1text11Eng">Monkey  |ˈmʌŋkɪ|</string>
-    <string name="level1text12Eng">Mouse  |maʊs| </string>
-    <string name="level1text13Eng">Pig  |pɪɡ|</string>
-    <string name="level1text14Eng">Rabbit |ˈræbɪt|</string>
-    <string name="level1text15Eng">Wolf  |wʊlf|</string>
+    <string name="level1text1Eng">Bear\n[ber]</string>
+    <string name="level1text2Eng">Cat\n[kæt]</string>
+    <string name="level1text3Eng">Cow\n[kaʊ]</string>
+    <string name="level1text4Eng">Dog\n[dɔːɡ]</string>
+    <string name="level1text5Eng">Duck\n[dʌk]</string>
+    <string name="level1text6Eng">Elephant\n[ˈelɪfənt]</string>
+    <string name="level1text7Eng">Fish\n[fɪʃ]</string>
+    <string name="level1text8Eng">Fox\n[fɑːks]</string>
+    <string name="level1text9Eng">Frog\n[frɔːɡ]</string>
+    <string name="level1text10Eng">Hen\n[hen]</string>
+    <string name="level1text11Eng">Monkey\n[ˈmʌŋkɪ]</string>
+    <string name="level1text12Eng">Mouse\n[maʊs] </string>
+    <string name="level1text13Eng">Pig\n[pɪɡ]</string>
+    <string name="level1text14Eng">Rabbit\n[ˈræbɪt]</string>
+    <string name="level1text15Eng">Wolf\n[wʊlf]</string>
 
 
 
@@ -65,4 +65,205 @@
     <string name="level2text13Eng">Sheep</string>
     <string name="level2text14Eng">Snake</string>
     <string name="level2text15Eng">Turtle</string>
+
+
+    <string name="level3text1">Хамелеон</string>
+    <string name="level3text2">Муха</string>
+    <string name="level3text3">Морская свинка</string>
+    <string name="level3text4">Бегемот</string>
+    <string name="level3text5">Кенгуру</string>
+    <string name="level3text6">Крот</string>
+    <string name="level3text7">Панда</string>
+    <string name="level3text8">Попугай</string>
+    <string name="level3text9">Пингвин</string>
+    <string name="level3text10">Енот</string>
+    <string name="level3text11">Носорог</string>
+    <string name="level3text12">Паук</string>
+    <string name="level3text13">Белка</string>
+    <string name="level3text14">Тигр</string>
+    <string name="level3text15">Зебра</string>
+
+    <string name="level3text1Eng">Chameleon\n[kəˈmiːlɪən]</string>
+    <string name="level3text2Eng">Fly\n[flaɪ]</string>
+    <string name="level3text3Eng">Guinea pig\n[ˈɡɪnɪ pɪɡ]</string>
+    <string name="level3text4Eng">Hippopotamus\n[ˌhɪpəˈpɑːtəməs]</string>
+    <string name="level3text5Eng">Kangaroo\n[ˌkæŋɡəˈruː]</string>
+    <string name="level3text6Eng">Mole\n[məʊl]</string>
+    <string name="level3text7Eng">Panda\n[ˈpændə]</string>
+    <string name="level3text8Eng">Parrot\n[ˈpærət]</string>
+    <string name="level3text9Eng">Penguin\n[ˈpeŋɡwɪn]</string>
+    <string name="level3text10Eng">Raccoon\n[ræˈkuːn]</string>
+    <string name="level3text11Eng">Rhinoceros\n[raɪˈnɑːsərəs]</string>
+    <string name="level3text12Eng">Spider\n[ˈspaɪdər]</string>
+    <string name="level3text13Eng">Squirrel\n[ˈskwɜːrəl]</string>
+    <string name="level3text14Eng">Tiger\n[ˈtaɪɡər]</string>
+    <string name="level3text15Eng">Zebra\n[ˈziːbrə]</string>
+
+
+    <string name="level4text1">Бобер</string>
+    <string name="level4text2">Пчела</string>
+    <string name="level4text3">Кабан</string>
+    <string name="level4text4">Динозавр</string>
+    <string name="level4text5">Голубь</string>
+    <string name="level4text6">Комар</string>
+    <string name="level4text7">Сова</string>
+    <string name="level4text8">Ворон</string>
+    <string name="level4text9">Скорпион</string>
+    <string name="level4text10">Тоторо </string>
+    <string name="level4text11">Оса</string>
+    <string name="level4text12">Мышь</string>
+    <string name="level4text13">Свинья</string>
+    <string name="level4text14">Кролик</string>
+    <string name="level4text15">Волк</string>
+
+    <string name="level4text1Eng">Beaver\n[ˈbiːvər]</string>
+    <string name="level4text2Eng">Bee \n[biː]</string>
+    <string name="level4text3Eng">Boar \n[bɔːr]</string>
+    <string name="level4text4Eng">Dinosaur\n [ˈdaɪnəsɔːr]</string>
+    <string name="level4text5Eng">Dove\n [dʌv]</string>
+    <string name="level4text6Eng">Mosquito \n[məˈskiːtəʊ]</string>
+    <string name="level4text7Eng">Owl \n[aʊl]</string>
+    <string name="level4text8Eng">Raven \n[ˈreɪvn]</string>
+    <string name="level4text9Eng">Scorpion\n [ˈskɔːrpɪən]</string>
+    <string name="level4text10Eng">Totoro</string>
+    <string name="level4text11Eng">Wasp \n[wɑːsp]</string>
+    <string name="level4text12Eng">Mouse\n[maʊs] </string>
+    <string name="level4text13Eng">Pig\n[pɪɡ]</string>
+    <string name="level4text14Eng">Rabbit\n[ˈræbɪt]</string>
+    <string name="level4text15Eng">Wolf\n[wʊlf]</string>
+
+
+
+    <string name="level6text1">Яблоко</string>
+    <string name="level6text2">Авокадо</string>
+    <string name="level6text3">Банан</string>
+    <string name="level6text4">Голубика</string>
+    <string name="level6text5">Вишня</string>
+    <string name="level6text6">Виноград</string>
+    <string name="level6text7">Киви</string>
+    <string name="level6text8">Лимон</string>
+    <string name="level6text9">Манго</string>
+    <string name="level6text10">Апельсин </string>
+    <string name="level6text11">Персик</string>
+    <string name="level6text12">Груша</string>
+    <string name="level6text13">Ананас</string>
+    <string name="level6text14">Клубника</string>
+    <string name="level6text15">Арбуз</string>
+
+    <string name="level6text1Eng">Apple\n[ˈæpl]</string>
+    <string name="level6text2Eng">Avocado \n[ˌævəˈkɑːdəʊ]</string>
+    <string name="level6text3Eng">Banana \n[bəˈnænə]</string>
+    <string name="level6text4Eng">Blueberry\n [ˈbluːberɪ]</string>
+    <string name="level6text5Eng">Cherry\n [ˈtʃerɪ]</string>
+    <string name="level6text6Eng">Grape \n[ɡreɪp]</string>
+    <string name="level6text7Eng">Kiwi \n[ˈkiːwiː]</string>
+    <string name="level6text8Eng">Lemon \n[ˈlemən]</string>
+    <string name="level6text9Eng">Mango\n [ˈmæŋɡəʊ]</string>
+    <string name="level6text10Eng">Orange\n[ˈɔːrɪndʒ]</string>
+    <string name="level6text11Eng">Peach \n[piːtʃ]</string>
+    <string name="level6text12Eng">Pear\n[per] </string>
+    <string name="level6text13Eng">Pineapple\n[ˈpaɪnæpl]</string>
+    <string name="level6text14Eng">Strawberry\n[ˈstrɔːberɪ]</string>
+    <string name="level6text15Eng">watermelon\n[ˈwɔːtərmelən]</string>
+
+
+    <string name="level7text1">Свекла</string>
+    <string name="level7text2">Брокколи</string>
+    <string name="level7text3">Капуста</string>
+    <string name="level7text4">Морковь</string>
+    <string name="level7text5">Красный перец</string>
+    <string name="level7text6">Кукуруза</string>
+    <string name="level7text7">Огурец</string>
+    <string name="level7text8">Баклажан</string>
+    <string name="level7text9">Чеснок</string>
+    <string name="level7text10">Лук </string>
+    <string name="level7text11">Горох</string>
+    <string name="level7text12">Картофель</string>
+    <string name="level7text13">Тыква</string>
+    <string name="level7text14">Помидор</string>
+    <string name="level7text15">Репа</string>
+
+    <string name="level7text1Eng">Beet\n[biːt]</string>
+    <string name="level7text2Eng">Broccoli \n[ˈbrɑːkəlɪ]</string>
+    <string name="level7text3Eng">Cabbage \n[ˈkæbɪdʒ]</string>
+    <string name="level7text4Eng">Carrot\n [ˈkærət]</string>
+    <string name="level7text5Eng">Chili\n [ˈtʃɪlɪ]</string>
+    <string name="level7text6Eng">Corn\n[kɔːrn]</string>
+    <string name="level7text7Eng">Cucumber \n[ˈkjuːkʌmbər]</string>
+    <string name="level7text8Eng">Eggplant \n[ˈeɡplænt]</string>
+    <string name="level7text9Eng">Garlic\n [ˈɡɑːrlɪk]</string>
+    <string name="level7text10Eng">Onion\n[ˈʌnjən]</string>
+    <string name="level7text11Eng">Peas \n[ˈpiːz]</string>
+    <string name="level7text12Eng">Potato\n[pəˈteɪtəʊ] </string>
+    <string name="level7text13Eng">Pumpkin\n[ˈpʌmpkɪn]</string>
+    <string name="level7text14Eng">Tomato\n[təˈmeɪtəʊ]</string>
+    <string name="level7text15Eng">Turnip\n[ˈtɜːrnɪp]</string>
+
+
+
+    <string name="level8text1">греча</string>
+    <string name="level8text2">масло</string>
+    <string name="level8text3">торт</string>
+    <string name="level8text4">сыр</string>
+    <string name="level8text5">чипсы</string>
+    <string name="level8text6">кофе</string>
+    <string name="level8text7">яйцо</string>
+    <string name="level8text8">мука</string>
+    <string name="level8text9">сок</string>
+    <string name="level8text10">кетчуп</string>
+    <string name="level8text11">мясо</string>
+    <string name="level8text12">молоко</string>
+    <string name="level8text13">гриб</string>
+    <string name="level8text14">пирог</string>
+    <string name="level8text15">рис</string>
+
+    <string name="level8text1Eng">Buckwheat\n[ˈbʌkwiːt]</string>
+    <string name="level8text2Eng">Butter \n[ˈbʌtər]</string>
+    <string name="level8text3Eng">Cake \n[keɪk]</string>
+    <string name="level8text4Eng">Cheese\n [tʃiːz]</string>
+    <string name="level8text5Eng">Chips\n [ˈtʃɪps]</string>
+    <string name="level8text6Eng">Coffee\n[ˈkɔːfɪ]</string>
+    <string name="level8text7Eng">Egg \n[eɡ]</string>
+    <string name="level8text8Eng">Flour \n[ˈflaʊər]</string>
+    <string name="level8text9Eng">Juice\n [dʒuːs]</string>
+    <string name="level8text10Eng">Ketchup\n[ˈketʃəp]</string>
+    <string name="level8text11Eng">Meat\n[miːt]</string>
+    <string name="level8text12Eng">Milk\n[mɪlk] </string>
+    <string name="level8text13Eng">Mushroom\n[ˈmʌʃrʊm]</string>
+    <string name="level8text14Eng">Pie\n[paɪ]</string>
+    <string name="level8text15Eng">Rice\n[raɪs]</string>
+
+
+    <string name="level9text1">миска</string>
+    <string name="level9text2">чашка</string>
+    <string name="level9text3">вилка</string>
+    <string name="level9text4">сковорода </string>
+    <string name="level9text5">стакан</string>
+    <string name="level9text6">чайник</string>
+    <string name="level9text7">нож</string>
+    <string name="level9text8">кружка</string>
+    <string name="level9text9">тарелка</string>
+    <string name="level9text10">кастрюля</string>
+    <string name="level9text11">сито</string>
+    <string name="level9text12">суп</string>
+    <string name="level9text13">ложка</string>
+    <string name="level9text14">чай</string>
+    <string name="level9text15">поднос</string>
+
+    <string name="level9text1Eng">Bowl\n[bəʊl]</string>
+    <string name="level9text2Eng">Cup\n[kʌp]</string>
+    <string name="level9text3Eng">Fork \n[fɔːrk]</string>
+    <string name="level9text4Eng">Frying pan\n </string>
+    <string name="level9text5Eng">Glass\n [ɡlæs]</string>
+    <string name="level9text6Eng">Kettle\n[ˈketl]</string>
+    <string name="level9text7Eng">Knife \n[naɪf]</string>
+    <string name="level9text8Eng">Mug \n[mʌɡ]</string>
+    <string name="level9text9Eng">Plate\n [pleɪt]</string>
+    <string name="level9text10Eng">Saucepan\n[ˈsɔːspæn]</string>
+    <string name="level9text11Eng">Sieve\n[sɪv]</string>
+    <string name="level9text12Eng">Soup\n[suːp] </string>
+    <string name="level9text13Eng">Spoon\n[spuːn]</string>
+    <string name="level9text14Eng">Tea\n[tiː]</string>
+    <string name="level9text15Eng">Tray\n[treɪ]</string>
+
 </resources>
