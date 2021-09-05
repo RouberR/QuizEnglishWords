@@ -146,7 +146,96 @@ public class GameLevels extends AppCompatActivity {
             }
         });
 
+        //переход на 10 уровень
+        TextView textView10 = findViewById(R.id.textView10);
+        textView10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level10.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
 
+        //переход на 11 уровень
+        TextView textView11 = findViewById(R.id.textView11);
+        textView11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level11.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 12 уровень
+        TextView textView12 = findViewById(R.id.textView12);
+        textView12.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level12.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 13 уровень
+        TextView textView13 = findViewById(R.id.textView13);
+        textView13.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level13.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 14 уровень
+        TextView textView14 = findViewById(R.id.textView14);
+        textView14.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level14.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 15 уровень
+        TextView textView15 = findViewById(R.id.textView15);
+        textView15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level15.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 16 уровень
+        TextView textView16 = findViewById(R.id.textView16);
+        textView16.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level16.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
 
 
 

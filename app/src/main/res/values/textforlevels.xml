@@ -266,4 +266,169 @@
     <string name="level9text14Eng">Tea\n[tiː]</string>
     <string name="level9text15Eng">Tray\n[treɪ]</string>
 
+
+    <string name="level11text1">янтарь</string>
+    <string name="level11text2">бежевый</string>
+    <string name="level11text3">черный</string>
+    <string name="level11text4">синий </string>
+    <string name="level11text5">коричневый</string>
+    <string name="level11text6">малиновый</string>
+    <string name="level11text7">золотой</string>
+    <string name="level11text8">серый</string>
+    <string name="level11text9">зеленый</string>
+    <string name="level11text10">оранжевый</string>
+    <string name="level11text11">розовый</string>
+    <string name="level11text12">фиолетовый</string>
+    <string name="level11text13">красный</string>
+    <string name="level11text14">белый</string>
+    <string name="level11text15">желтый</string>
+
+    <string name="level11text1Eng">Amber\n[ˈæmbər]</string>
+    <string name="level11text2Eng">Beige\n[beɪʒ]</string>
+    <string name="level11text3Eng">Black \n[blæk]</string>
+    <string name="level11text4Eng">Blue\n[bluː] </string>
+    <string name="level11text5Eng">Brown\n [braʊn]</string>
+    <string name="level11text6Eng">Crimson\n[ˈkrɪmzn]</string>
+    <string name="level11text7Eng">Golden \n[ˈɡəʊldən]</string>
+    <string name="level11text8Eng">Gray \n[ɡreɪ]</string>
+    <string name="level11text9Eng">Green\n [ɡriːn]</string>
+    <string name="level11text10Eng">Orange\n[ˈɔːrɪndʒ]</string>
+    <string name="level11text11Eng">Pink\n[pɪŋk]</string>
+    <string name="level11text12Eng">Purple\n[ˈpɜːrpl] </string>
+    <string name="level11text13Eng">Red\n[red]</string>
+    <string name="level11text14Eng">White\n[waɪt]</string>
+    <string name="level11text15Eng">Yellow\n[ˈjeləʊ]</string>
+
+
+    <string name="level12text1">облачный</string>
+    <string name="level12text2">туман</string>
+    <string name="level12text3">град</string>
+    <string name="level12text4">ураган </string>
+    <string name="level12text5">лед</string>
+    <string name="level12text6">молния</string>
+    <string name="level12text7">дождь</string>
+    <string name="level12text8">радуга</string>
+    <string name="level12text9">дождь со снегом</string>
+    <string name="level12text10">снег</string>
+    <string name="level12text11">солнце</string>
+    <string name="level12text12">гроза</string>
+    <string name="level12text13">погода</string>
+    <string name="level12text14">ветер</string>
+    <string name="level12text15">Местами солнечно</string>
+
+    <string name="level12text1Eng">Cloudy\n[ˈklaʊdɪ]</string>
+    <string name="level12text2Eng">Fog\n[fɑːɡ]</string>
+    <string name="level12text3Eng">Hail\n[heɪl]</string>
+    <string name="level12text4Eng">Hurricane\n[ˈhɜːrəkən] </string>
+    <string name="level12text5Eng">Ice\n [aɪs]</string>
+    <string name="level12text6Eng">Lightning\n[ˈlaɪtnɪŋ]</string>
+    <string name="level12text7Eng">Rain\n[reɪn]</string>
+    <string name="level12text8Eng">Rainbow \n[ˈreɪnbəʊ]</string>
+    <string name="level12text9Eng">Sleet\n [sliːt]</string>
+    <string name="level12text10Eng">Snow\n[snəʊ]</string>
+    <string name="level12text11Eng">Sun\n[sʌn]</string>
+    <string name="level12text12Eng">Thunderstorm\n[ˈθʌndərstɔːrm] </string>
+    <string name="level12text13Eng">Weather\n[ˈweðər]</string>
+    <string name="level12text14Eng">Wind\n[wɪnd]</string>
+    <string name="level12text15Eng">Partly Sunny\n</string>
+
+
+    <string name="level13text1">кресло</string>
+    <string name="level13text2">кровать</string>
+    <string name="level13text3">скамейка</string>
+    <string name="level13text4">шкаф </string>
+    <string name="level13text5">ковер</string>
+    <string name="level13text6">стул</string>
+    <string name="level13text7">колыбель</string>
+    <string name="level13text8">занавески</string>
+    <string name="level13text9">подушка  </string>
+    <string name="level13text10">письменный стол</string>
+    <string name="level13text11">гамак</string>
+    <string name="level13text12">лампа</string>
+    <string name="level13text13">зеркало</string>
+    <string name="level13text14">диван</string>
+    <string name="level13text15">стол </string>
+
+    <string name="level13text1Eng">Armchair\n[ˈɑːrmtʃer]</string>
+    <string name="level13text2Eng">Bed\n[bed]</string>
+    <string name="level13text3Eng">Bench\n[bentʃ]</string>
+    <string name="level13text4Eng">Cabinet\n[ˈkæbɪnət] </string>
+    <string name="level13text5Eng">Carpet\n [ˈkɑːrpɪt]</string>
+    <string name="level13text6Eng">Chair\n[tʃer]</string>
+    <string name="level13text7Eng">Cradle\n[ˈkreɪdl]</string>
+    <string name="level13text8Eng">Curtains \n[ˈkɜːtənz]</string>
+    <string name="level13text9Eng">Cushion\n [ˈkʊʃn]</string>
+    <string name="level13text10Eng">Desk\n[desk]</string>
+    <string name="level13text11Eng">Hammock\n[ˈhæmək]</string>
+    <string name="level13text12Eng">Lamp\n[læmp] </string>
+    <string name="level13text13Eng">Mirror\n[ˈmɪrər]</string>
+    <string name="level13text14Eng">Sofa\n[ˈsəʊfə]</string>
+    <string name="level13text15Eng">Table\n[ˈteɪbl]</string>
+
+
+    <string name="level14text1">ремень</string>
+    <string name="level14text2">ботинки</string>
+    <string name="level14text3">плащ</string>
+    <string name="level14text4">пальто</string>
+    <string name="level14text5">платье</string>
+    <string name="level14text6">перчатки</string>
+    <string name="level14text7">шляпа</string>
+    <string name="level14text8">куртка</string>
+    <string name="level14text9">джинсы</string>
+    <string name="level14text10">трусики</string>
+    <string name="level14text11">пижама</string>
+    <string name="level14text12">шарф</string>
+    <string name="level14text13">рубашка</string>
+    <string name="level14text14">обувь</string>
+    <string name="level14text15">шорты</string>
+
+    <string name="level14text1Eng">Belt\n[belt]</string>
+    <string name="level14text2Eng">Boots\n[buːts ]</string>
+    <string name="level14text3Eng">Cloak\n[kləʊk]</string>
+    <string name="level14text4Eng">Coat\n[kəʊt] </string>
+    <string name="level14text5Eng">Dress\n [dres]</string>
+    <string name="level14text6Eng">Gloves\n[ɡlʌvz]</string>
+    <string name="level14text7Eng">Hat\n[hæt]</string>
+    <string name="level14text8Eng">Jacket \n[ˈdʒækɪt]</string>
+    <string name="level14text9Eng">Jeans\n [dʒiːnz]</string>
+    <string name="level14text10Eng">Knickers\n[ˈnɪkəz ]</string>
+    <string name="level14text11Eng">Pajamas\n[pəˈdʒɑməz]</string>
+    <string name="level14text12Eng">Scarf\n[skɑːrf] </string>
+    <string name="level14text13Eng">Shirt\n[ʃɜːrt]</string>
+    <string name="level14text14Eng">Shoes\n[ˈʃuːz]</string>
+    <string name="level14text15Eng">Shorts\n[ʃɔːrts]</string>
+
+
+    <string name="level16text1">галстук-бабочка</string>
+    <string name="level16text2">кепка</string>
+    <string name="level16text3">сумка</string>
+    <string name="level16text4">толстовка с капюшоном</string>
+    <string name="level16text5">ожерелье</string>
+    <string name="level16text6">спецодежда</string>
+    <string name="level16text7">кольцо</string>
+    <string name="level16text8">юбка</string>
+    <string name="level16text9">тапочки</string>
+    <string name="level16text10">кроссовки</string>
+    <string name="level16text11">носоки</string>
+    <string name="level16text12">свитер</string>
+    <string name="level16text13">галстук</string>
+    <string name="level16text14">зонтик</string>
+    <string name="level16text15">часы</string>
+
+    <string name="level16text1Eng">Bow tie\n[baʊ taɪ]</string>
+    <string name="level16text2Eng">Cap\n[kæp ]</string>
+    <string name="level16text3Eng">Handbag\n[ˈhændbæɡ]</string>
+    <string name="level16text4Eng">Hoodie\n[ˈhʊdiː] </string>
+    <string name="level16text5Eng">Necklace\n [ˈnekləs]</string>
+    <string name="level16text6Eng">Overall\n[ˈəʊvərɔːl]</string>
+    <string name="level16text7Eng">Ring\n[rɪŋ]</string>
+    <string name="level16text8Eng">Skirt \n[skɜːrt]</string>
+    <string name="level16text9Eng">Slippers\n [sˈlɪpərz]</string>
+    <string name="level16text10Eng">Sneakers\n[ˈsniːkərz ]</string>
+    <string name="level16text11Eng">Socks\n[ˈsɑːks]</string>
+    <string name="level16text12Eng">Sweater\n[ˈswetər] </string>
+    <string name="level16text13Eng">Tie\n[taɪ]</string>
+    <string name="level16text14Eng">Umbrella\n[ʌmˈbrelə]</string>
+    <string name="level16text15Eng">Watch\n[wɑːtʃ]</string>
+
 </resources>

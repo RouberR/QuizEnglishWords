@@ -19,7 +19,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.Random;
 
-public class Level9 extends AppCompatActivity {
+public class Level11 extends AppCompatActivity {
 
 
     Dialog dialog;
@@ -37,8 +37,8 @@ public class Level9 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.universal);
 
-        TextView textLevels = findViewById(R.id.text_levels); // текст Уровень 9
-        textLevels.setText(R.string.level_9);
+        TextView textLevels = findViewById(R.id.text_levels); // текст Уровень 1
+        textLevels.setText(R.string.level_11);
 
         final ImageView img_left = findViewById(R.id.img_left);
         //округление углов
@@ -73,7 +73,7 @@ public class Level9 extends AppCompatActivity {
 
 // описание задания
         TextView txtdescription = dialog.findViewById(R.id.txtdescription);
-        txtdescription.setText(R.string.level9);
+        txtdescription.setText(R.string.level11);
 
 
 
@@ -83,7 +83,7 @@ public class Level9 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level9.this, GameLevels.class);
+                    Intent intent = new Intent(Level11.this, GameLevels.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -121,7 +121,7 @@ public class Level9 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level9.this, GameLevels.class);
+                    Intent intent = new Intent(Level11.this, GameLevels.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -130,14 +130,14 @@ public class Level9 extends AppCompatActivity {
             }
         });
         TextView textdescriptionEnd = dialogEnd.findViewById(R.id.txtdescription_end);
-        textdescriptionEnd.setText(R.string.level9end);
+        textdescriptionEnd.setText(R.string.level11end);
         //кнопка продолжить
         Button buttonContinue2 = dialogEnd.findViewById(R.id.button_continue);
         buttonContinue2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 try{
-                    Intent intent = new Intent(Level9.this, Level10.class);
+                    Intent intent = new Intent(Level11.this, Level12.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -156,7 +156,7 @@ public class Level9 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level9.this, GameLevels.class);
+                    Intent intent = new Intent(Level11.this, GameLevels.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -177,27 +177,27 @@ public class Level9 extends AppCompatActivity {
 
 
         //подключаем анимацию
-        final Animation a = AnimationUtils.loadAnimation(Level9.this, R.anim.alpha);
+        final Animation a = AnimationUtils.loadAnimation(Level11.this, R.anim.alpha);
 
 
         numLeft = random.nextInt(15);
-        img_left.setImageResource(array.images9[numLeft]); //Достаем картинку из массива
-        textLeft.setText(array.rusPower9[numLeft]);
+        img_left.setImageResource(array.images11[numLeft]); //Достаем картинку из массива
+        textLeft.setText(array.rusPower11[numLeft]);
 
         numRight = random.nextInt(15);
 
         while(numLeft == numRight){
             numRight=random.nextInt(15);
         }
-        img_right.setImageResource(array.images9[numRight]);
-        textRight.setText(array.rusPower9[numRight]);
+        img_right.setImageResource(array.images11[numRight]);
+        textRight.setText(array.rusPower11[numRight]);
 
         numTop = random.nextInt(2);
        //0 - правая картинка     1- левая
         if (numTop == 0){
-           textTop.setText(array.engPower9[numRight]);
+           textTop.setText(array.engPower11[numRight]);
         } else {
-            textTop.setText(array.engPower9[numLeft]);
+            textTop.setText(array.engPower11[numLeft]);
         }
                 //обработка левой картинки
         img_left.setOnTouchListener(new View.OnTouchListener() {
@@ -254,25 +254,25 @@ public class Level9 extends AppCompatActivity {
                         dialogEnd.show();
                     } else{
                         numLeft = random.nextInt(15);
-                        img_left.setImageResource(array.images9[numLeft]); //Достаем картинку из массива
+                        img_left.setImageResource(array.images11[numLeft]); //Достаем картинку из массива
                         img_left.startAnimation(a);
-                        textLeft.setText(array.rusPower9[numLeft]);
+                        textLeft.setText(array.rusPower11[numLeft]);
 
                         numRight = random.nextInt(15);
 
                         while(numLeft == numRight){
                             numRight=random.nextInt(15);
                         }
-                        img_right.setImageResource(array.images9[numRight]);
+                        img_right.setImageResource(array.images11[numRight]);
                         img_right.startAnimation(a);
-                        textRight.setText(array.rusPower9[numRight]);
+                        textRight.setText(array.rusPower11[numRight]);
 
                         numTop = random.nextInt(2);
                         //0 - правая картинка     1- левая
                         if (numTop == 0){
-                            textTop.setText(array.engPower9[numRight]);
+                            textTop.setText(array.engPower11[numRight]);
                         } else {
-                            textTop.setText(array.engPower9[numLeft]);
+                            textTop.setText(array.engPower11[numLeft]);
                         }
                         img_right.setEnabled(true);
                     }
@@ -338,25 +338,25 @@ public class Level9 extends AppCompatActivity {
                         dialogEnd.show();
                     } else{
                         numLeft = random.nextInt(15);
-                        img_left.setImageResource(array.images9[numLeft]); //Достаем картинку из массива
+                        img_left.setImageResource(array.images11[numLeft]); //Достаем картинку из массива
                         img_left.startAnimation(a);
-                        textLeft.setText(array.rusPower9[numLeft]);
+                        textLeft.setText(array.rusPower11[numLeft]);
 
                         numRight = random.nextInt(15);
 
                         while(numLeft == numRight){
                             numRight=random.nextInt(15);
                         }
-                        img_right.setImageResource(array.images9[numRight]);
+                        img_right.setImageResource(array.images11[numRight]);
                         img_right.startAnimation(a);
-                        textRight.setText(array.rusPower9[numRight]);
+                        textRight.setText(array.rusPower11[numRight]);
 
                         numTop = random.nextInt(2);
                         //0 - правая картинка     1- левая
                         if (numTop == 0){
-                            textTop.setText(array.engPower9[numRight]);
+                            textTop.setText(array.engPower11[numRight]);
                         } else {
-                            textTop.setText(array.engPower9[numLeft]);
+                            textTop.setText(array.engPower11[numLeft]);
                         }
                         img_left.setEnabled(true);
                     }
@@ -371,7 +371,7 @@ public class Level9 extends AppCompatActivity {
     @Override
     public void onBackPressed(){
         try {
-            Intent intent = new Intent(Level9.this, GameLevels.class);
+            Intent intent = new Intent(Level11.this, GameLevels.class);
             startActivity(intent); finish();
         }catch (Exception e){
 
