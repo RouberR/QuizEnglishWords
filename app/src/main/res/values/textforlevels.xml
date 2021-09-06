@@ -431,4 +431,103 @@
     <string name="level16text14Eng">Umbrella\n[ʌmˈbrelə]</string>
     <string name="level16text15Eng">Watch\n[wɑːtʃ]</string>
 
+
+    <string name="level17text1">метла</string>
+    <string name="level17text2">ведро</string>
+    <string name="level17text3">прищепка</string>
+    <string name="level17text4">совок для мусора  </string>
+    <string name="level17text5">мусор</string>
+    <string name="level17text6">утюг</string>
+    <string name="level17text7">гладильная доска</string>
+    <string name="level17text8">микроволновая печь</string>
+    <string name="level17text9">швабра</string>
+    <string name="level17text10">холодильник</string>
+    <string name="level17text11">раковина</string>
+    <string name="level17text12">губка</string>
+    <string name="level17text13">плита</string>
+    <string name="level17text14">полотенце</string>
+    <string name="level17text15">пылесос</string>
+
+    <string name="level17text1Eng">Broom\n[bruːm]</string>
+    <string name="level17text2Eng">Bucket\n[ˈbʌkɪt]</string>
+    <string name="level17text3Eng">Clothespin\n[]</string>
+    <string name="level17text4Eng">Dustpan\n[ˈdʌstpæn] </string>
+    <string name="level17text5Eng">Garbage\n [ˈɡɑːrbɪdʒ]</string>
+    <string name="level17text6Eng">Iron\n[ˈaɪərn]</string>
+    <string name="level17text7Eng">Ironing board\n[]</string>
+    <string name="level17text8Eng">Microwave\n[ˈmaɪkrəweɪv]</string>
+    <string name="level17text9Eng">Mop\n [mɑːp]</string>
+    <string name="level17text10Eng">Refrigerator\n[rɪˈfrɪdʒəreɪtər ]</string>
+    <string name="level17text11Eng">Sink\n[sɪŋk]</string>
+    <string name="level17text12Eng">Sponge\n[spʌndʒ] </string>
+    <string name="level17text13Eng">Stove\n[stəʊv]</string>
+    <string name="level17text14Eng">Towel\n[ˈtaʊəl]</string>
+    <string name="level17text15Eng">Vacuum cleaner\n</string>
+
+
+    <string name="level18text1">ванна</string>
+    <string name="level18text2">расческа</string>
+    <string name="level18text3">фен</string>
+    <string name="level18text4">салфетка</string>
+    <string name="level18text5">радиатор</string>
+    <string name="level18text6">бритва</string>
+    <string name="level18text7">весы </string>
+    <string name="level18text8">Резинка для волос</string>
+    <string name="level18text9">мыло</string>
+    <string name="level18text10">розетка</string>
+    <string name="level18text11">тостер</string>
+    <string name="level18text12">туалет</string>
+    <string name="level18text13">зубная щетка</string>
+    <string name="level18text14">зубная паста</string>
+    <string name="level18text15">ваза</string>
+
+    <string name="level18text1Eng">Bath\n[bæθ]</string>
+    <string name="level18text2Eng">Comb\n[kəʊm]</string>
+    <string name="level18text3Eng">Hairdryer\n[ˈherdraɪər]</string>
+    <string name="level18text4Eng">Napkin\n[ˈnæpkɪn] </string>
+    <string name="level18text5Eng">Radiator\n [ˈreɪdɪeɪtər]</string>
+    <string name="level18text6Eng">Razor\n[ˈreɪzər]</string>
+    <string name="level18text7Eng">Scales \n[ˈskeɪlz]</string>
+    <string name="level18text8Eng">Scrunchy\n[ˈskrʌntʃɪ]</string>
+    <string name="level18text9Eng">Soap\n[səʊp]</string>
+    <string name="level18text10Eng">Socket\n[ˈsɑːkɪt ]</string>
+    <string name="level18text11Eng">Toaster\n[ˈtəʊstər]</string>
+    <string name="level18text12Eng">Toilet\n[ˈtɔɪlət] </string>
+    <string name="level18text13Eng">Toothbrush\n[ˈtuːθbrʌʃ]</string>
+    <string name="level18text14Eng">Toothpaste\n[ˈtuːθpeɪst]</string>
+    <string name="level18text15Eng">Vase\n[veɪs]</string>
+
+
+    <string name="level19text1">квартира</string>
+    <string name="level19text2">балкон</string>
+    <string name="level19text3">ванная комната</string>
+    <string name="level19text4">спальня</string>
+    <string name="level19text5">дверь</string>
+    <string name="level19text6">дверной звонок</string>
+    <string name="level19text7">гараж </string>
+    <string name="level19text8">дом  </string>
+    <string name="level19text9">кухня</string>
+    <string name="level19text10">гостиная</string>
+    <string name="level19text11">почтовый ящик</string>
+    <string name="level19text12">крыша</string>
+    <string name="level19text13">душ </string>
+    <string name="level19text14">лестница </string>
+    <string name="level19text15">окно</string>
+
+    <string name="level19text1Eng">Apartment\n[əˈpɑːrtmənt]</string>
+    <string name="level19text2Eng">Balcony\n[ˈbælkənɪ]</string>
+    <string name="level19text3Eng">Bathroom\n[ˈbæθruːm]</string>
+    <string name="level19text4Eng">Bedroom\n[ˈbedruːm] </string>
+    <string name="level19text5Eng">Door\n [dɔːr]</string>
+    <string name="level19text6Eng">Doorbell\n[ˈdɔːrbel]</string>
+    <string name="level19text7Eng">Garage \n[ɡəˈrɑːʒ]</string>
+    <string name="level19text8Eng">House\n[haʊs]</string>
+    <string name="level19text9Eng">Kitchen\n[ˈkɪtʃɪn]</string>
+    <string name="level19text10Eng">Living room\n</string>
+    <string name="level19text11Eng">Mailbox\n[ˈmeɪlbɑːks]</string>
+    <string name="level19text12Eng">Roof\n[ruːf] </string>
+    <string name="level19text13Eng">Shower\n[ˈʃaʊər]</string>
+    <string name="level19text14Eng">Stairs\n[ˈsterz]</string>
+    <string name="level19text15Eng">Window\n[ˈwɪndəʊ]</string>
+
 </resources>

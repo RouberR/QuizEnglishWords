@@ -237,6 +237,58 @@ public class GameLevels extends AppCompatActivity {
             }
         });
 
+        //переход на 17 уровень
+        TextView textView17 = findViewById(R.id.textView17);
+        textView17.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level17.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 18 уровень
+        TextView textView18 = findViewById(R.id.textView18);
+        textView18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level18.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 19 уровень
+        TextView textView19 = findViewById(R.id.textView19);
+        textView19.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level19.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
+        //переход на 20 уровень
+        TextView textView20 = findViewById(R.id.textView20);
+        textView20.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(GameLevels.this, Level20.class);
+                    startActivity(intent); finish();
+                }catch (Exception e){
+                }
+            }
+        });
+
 
 
     }

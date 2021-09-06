@@ -553,4 +553,128 @@ public class Array {
             R.string.level16text9, R.string.level16text10, R.string.level16text11, R.string.level16text12,
             R.string.level16text13, R.string.level16text14, R.string.level16text15,
     };
+
+
+    //Массив для 17 уровня
+    final int[] images17 = {R.drawable.broom, R.drawable.bucket, R.drawable.clothespin, R.drawable.dustpan,
+            R.drawable.garbage, R.drawable.iron, R.drawable.ironing_board, R.drawable.microwave,
+            R.drawable.mop, R.drawable.refrigerator, R.drawable.sink, R.drawable.sponge,
+            R.drawable.stove, R.drawable.towel, R.drawable.vacuum_cleaner,
+    };
+
+    final int[] engPower17= {R.string.level17text1Eng, R.string.level17text2Eng, R.string.level17text3Eng,
+            R.string.level17text4Eng, R.string.level17text5Eng, R.string.level17text6Eng,
+            R.string.level17text7Eng, R.string.level17text8Eng, R.string.level17text9Eng, R.string.level17text10Eng,
+            R.string.level17text11Eng, R.string.level17text12Eng, R.string.level17text13Eng, R.string.level17text14Eng,
+            R.string.level17text15Eng,
+    };
+
+    final int[] rusPower17 = {
+            R.string.level17text1, R.string.level17text2, R.string.level17text3, R.string.level17text4,
+            R.string.level17text5, R.string.level17text6, R.string.level17text7, R.string.level17text8,
+            R.string.level17text9, R.string.level17text10, R.string.level17text11, R.string.level17text12,
+            R.string.level17text13, R.string.level17text14, R.string.level17text15,
+    };
+
+    //Массив для 18 уровня
+    final int[] images18 = {R.drawable.bath, R.drawable.comb, R.drawable.hairdryer, R.drawable.napkin,
+            R.drawable.radiator, R.drawable.razor, R.drawable.scale, R.drawable.scrunchy,
+            R.drawable.soap, R.drawable.socket, R.drawable.toaster, R.drawable.toilet,
+            R.drawable.toothbrush, R.drawable.toothpaste, R.drawable.vase,
+    };
+
+    final int[] engPower18= {R.string.level18text1Eng, R.string.level18text2Eng, R.string.level18text3Eng,
+            R.string.level18text4Eng, R.string.level18text5Eng, R.string.level18text6Eng,
+            R.string.level18text7Eng, R.string.level18text8Eng, R.string.level18text9Eng, R.string.level18text10Eng,
+            R.string.level18text11Eng, R.string.level18text12Eng, R.string.level18text13Eng, R.string.level18text14Eng,
+            R.string.level18text15Eng,
+    };
+
+    final int[] rusPower18 = {
+            R.string.level18text1, R.string.level18text2, R.string.level18text3, R.string.level18text4,
+            R.string.level18text5, R.string.level18text6, R.string.level18text7, R.string.level18text8,
+            R.string.level18text9, R.string.level18text10, R.string.level18text11, R.string.level18text12,
+            R.string.level18text13, R.string.level18text14, R.string.level18text15,
+    };
+
+    //Массив для 19 уровня
+    final int[] images19 = {R.drawable.apartment, R.drawable.balcony, R.drawable.bathroom, R.drawable.bedroom,
+            R.drawable.door, R.drawable.doorbell, R.drawable.garage, R.drawable.house,
+            R.drawable.kitchen, R.drawable.living_room, R.drawable.mailbox, R.drawable.roof,
+            R.drawable.shower, R.drawable.stairs, R.drawable.window,
+    };
+
+    final int[] engPower19= {R.string.level19text1Eng, R.string.level19text2Eng, R.string.level19text3Eng,
+            R.string.level19text4Eng, R.string.level19text5Eng, R.string.level19text6Eng,
+            R.string.level19text7Eng, R.string.level19text8Eng, R.string.level19text9Eng, R.string.level19text10Eng,
+            R.string.level19text11Eng, R.string.level19text12Eng, R.string.level19text13Eng, R.string.level19text14Eng,
+            R.string.level19text15Eng,
+    };
+
+    final int[] rusPower19 = {
+            R.string.level19text1, R.string.level19text2, R.string.level19text3, R.string.level19text4,
+            R.string.level19text5, R.string.level19text6, R.string.level19text7, R.string.level19text8,
+            R.string.level19text9, R.string.level19text10, R.string.level19text11, R.string.level19text12,
+            R.string.level19text13, R.string.level19text14, R.string.level19text15,
+    };
+
+    //Массив для 20 уровня
+    final int[] images20 = {R.drawable.bow_tie, R.drawable.cap, R.drawable.handbag, R.drawable.hoodie,
+            R.drawable.necklace, R.drawable.overall, R.drawable.ring, R.drawable.skirt,
+            R.drawable.slippers, R.drawable.sneakers, R.drawable.socks, R.drawable.sweater,
+            R.drawable.tie, R.drawable.umbrella, R.drawable.watch,
+            R.drawable.broom, R.drawable.bucket, R.drawable.clothespin, R.drawable.dustpan,
+            R.drawable.garbage, R.drawable.iron, R.drawable.ironing_board, R.drawable.microwave,
+            R.drawable.mop, R.drawable.refrigerator, R.drawable.sink, R.drawable.sponge,
+            R.drawable.stove, R.drawable.towel, R.drawable.vacuum_cleaner,
+            R.drawable.bath, R.drawable.comb, R.drawable.hairdryer, R.drawable.napkin,
+            R.drawable.radiator, R.drawable.razor, R.drawable.scale, R.drawable.scrunchy,
+            R.drawable.soap, R.drawable.socket, R.drawable.toaster, R.drawable.toilet,
+            R.drawable.toothbrush, R.drawable.toothpaste, R.drawable.vase,
+            R.drawable.apartment, R.drawable.balcony, R.drawable.bathroom, R.drawable.bedroom,
+            R.drawable.door, R.drawable.doorbell, R.drawable.garage, R.drawable.house,
+            R.drawable.kitchen, R.drawable.living_room, R.drawable.mailbox, R.drawable.roof,
+            R.drawable.shower, R.drawable.stairs, R.drawable.window,
+    };
+
+    final int[] engPower20= {R.string.level16text1Eng, R.string.level16text2Eng, R.string.level16text3Eng,
+            R.string.level16text4Eng, R.string.level16text5Eng, R.string.level16text6Eng,
+            R.string.level16text7Eng, R.string.level16text8Eng, R.string.level16text9Eng, R.string.level16text10Eng,
+            R.string.level16text11Eng, R.string.level16text12Eng, R.string.level16text13Eng, R.string.level16text14Eng,
+            R.string.level16text15Eng,
+            R.string.level17text1Eng, R.string.level17text2Eng, R.string.level17text3Eng,
+            R.string.level17text4Eng, R.string.level17text5Eng, R.string.level17text6Eng,
+            R.string.level17text7Eng, R.string.level17text8Eng, R.string.level17text9Eng, R.string.level17text10Eng,
+            R.string.level17text11Eng, R.string.level17text12Eng, R.string.level17text13Eng, R.string.level17text14Eng,
+            R.string.level17text15Eng,
+            R.string.level18text1Eng, R.string.level18text2Eng, R.string.level18text3Eng,
+            R.string.level18text4Eng, R.string.level18text5Eng, R.string.level18text6Eng,
+            R.string.level18text7Eng, R.string.level18text8Eng, R.string.level18text9Eng, R.string.level18text10Eng,
+            R.string.level18text11Eng, R.string.level18text12Eng, R.string.level18text13Eng, R.string.level18text14Eng,
+            R.string.level18text15Eng,
+            R.string.level19text1Eng, R.string.level19text2Eng, R.string.level19text3Eng,
+            R.string.level19text4Eng, R.string.level19text5Eng, R.string.level19text6Eng,
+            R.string.level19text7Eng, R.string.level19text8Eng, R.string.level19text9Eng, R.string.level19text10Eng,
+            R.string.level19text11Eng, R.string.level19text12Eng, R.string.level19text13Eng, R.string.level19text14Eng,
+            R.string.level19text15Eng,
+    };
+
+    final int[] rusPower20 = {
+            R.string.level16text1, R.string.level16text2, R.string.level16text3, R.string.level16text4,
+            R.string.level16text5, R.string.level16text6, R.string.level16text7, R.string.level16text8,
+            R.string.level16text9, R.string.level16text10, R.string.level16text11, R.string.level16text12,
+            R.string.level16text13, R.string.level16text14, R.string.level16text15,
+            R.string.level17text1, R.string.level17text2, R.string.level17text3, R.string.level17text4,
+            R.string.level17text5, R.string.level17text6, R.string.level17text7, R.string.level17text8,
+            R.string.level17text9, R.string.level17text10, R.string.level17text11, R.string.level17text12,
+            R.string.level17text13, R.string.level17text14, R.string.level17text15,
+            R.string.level18text1, R.string.level18text2, R.string.level18text3, R.string.level18text4,
+            R.string.level18text5, R.string.level18text6, R.string.level18text7, R.string.level18text8,
+            R.string.level18text9, R.string.level18text10, R.string.level18text11, R.string.level18text12,
+            R.string.level18text13, R.string.level18text14, R.string.level18text15,
+            R.string.level19text1, R.string.level19text2, R.string.level19text3, R.string.level19text4,
+            R.string.level19text5, R.string.level19text6, R.string.level19text7, R.string.level19text8,
+            R.string.level19text9, R.string.level19text10, R.string.level19text11, R.string.level19text12,
+            R.string.level19text13, R.string.level19text14, R.string.level19text15,
+    };
 }

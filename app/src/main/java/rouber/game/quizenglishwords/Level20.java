@@ -19,7 +19,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.Random;
 
-public class Level16 extends AppCompatActivity {
+public class Level20 extends AppCompatActivity {
 
 
     Dialog dialog;
@@ -37,8 +37,8 @@ public class Level16 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.universal);
 
-        TextView textLevels = findViewById(R.id.text_levels); // текст Уровень 14
-        textLevels.setText(R.string.level_16);
+        TextView textLevels = findViewById(R.id.text_levels); // текст Уровень 20
+        textLevels.setText(R.string.level_20);
 
         final ImageView img_left = findViewById(R.id.img_left);
         //округление углов
@@ -73,7 +73,8 @@ public class Level16 extends AppCompatActivity {
 
 // описание задания
         TextView txtdescription = dialog.findViewById(R.id.txtdescription);
-        txtdescription.setText(R.string.level16);
+        txtdescription.setText(R.string.level20);
+
 
 
 
@@ -83,7 +84,7 @@ public class Level16 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level16.this, GameLevels.class);
+                    Intent intent = new Intent(Level20.this, GameLevels.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -121,7 +122,7 @@ public class Level16 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level16.this, GameLevels.class);
+                    Intent intent = new Intent(Level20.this, GameLevels.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -130,14 +131,14 @@ public class Level16 extends AppCompatActivity {
             }
         });
         TextView textdescriptionEnd = dialogEnd.findViewById(R.id.txtdescription_end);
-        textdescriptionEnd.setText(R.string.level16end);
+        textdescriptionEnd.setText(R.string.level20end);
         //кнопка продолжить
         Button buttonContinue2 = dialogEnd.findViewById(R.id.button_continue);
         buttonContinue2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 try{
-                    Intent intent = new Intent(Level16.this, Level17.class);
+                    Intent intent = new Intent(Level20.this, Level16.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -156,7 +157,7 @@ public class Level16 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 try {
-                    Intent intent = new Intent(Level16.this, GameLevels.class);
+                    Intent intent = new Intent(Level20.this, GameLevels.class);
                     startActivity(intent); finish();
                 }catch (Exception e){
 
@@ -177,27 +178,27 @@ public class Level16 extends AppCompatActivity {
 
 
         //подключаем анимацию
-        final Animation a = AnimationUtils.loadAnimation(Level16.this, R.anim.alpha);
+        final Animation a = AnimationUtils.loadAnimation(Level20.this, R.anim.alpha);
 
 
-        numLeft = random.nextInt(15);
-        img_left.setImageResource(array.images16[numLeft]); //Достаем картинку из массива
-        textLeft.setText(array.rusPower16[numLeft]);
+        numLeft = random.nextInt(60);
+        img_left.setImageResource(array.images20[numLeft]); //Достаем картинку из массива
+        textLeft.setText(array.rusPower20[numLeft]);
 
-        numRight = random.nextInt(15);
+        numRight = random.nextInt(60);
 
         while(numLeft == numRight){
-            numRight=random.nextInt(15);
+            numRight=random.nextInt(60);
         }
-        img_right.setImageResource(array.images16[numRight]);
-        textRight.setText(array.rusPower16[numRight]);
+        img_right.setImageResource(array.images20[numRight]);
+        textRight.setText(array.rusPower20[numRight]);
 
         numTop = random.nextInt(2);
        //0 - правая картинка     1- левая
         if (numTop == 0){
-           textTop.setText(array.engPower16[numRight]);
+           textTop.setText(array.engPower20[numRight]);
         } else {
-            textTop.setText(array.engPower16[numLeft]);
+            textTop.setText(array.engPower20[numLeft]);
         }
                 //обработка левой картинки
         img_left.setOnTouchListener(new View.OnTouchListener() {
@@ -217,7 +218,7 @@ public class Level16 extends AppCompatActivity {
                     //Если отпутил палец
                     if (numTop == 1){
                         if(count<20){
-                            count = count + 0.5;
+                            count =  count + 0.2;
                         }
                         //закраска прогресса игры в серый цвет
                         for(int i = 0; i <20; i++){
@@ -249,30 +250,30 @@ public class Level16 extends AppCompatActivity {
                         }
 
                     }
-                    if (count == 20){
+                    if (count >= 19){
                         //Выход из уровня!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                         dialogEnd.show();
                     } else{
-                        numLeft = random.nextInt(15);
-                        img_left.setImageResource(array.images16[numLeft]); //Достаем картинку из массива
+                        numLeft = random.nextInt(60);
+                        img_left.setImageResource(array.images20[numLeft]); //Достаем картинку из массива
                         img_left.startAnimation(a);
-                        textLeft.setText(array.rusPower16[numLeft]);
+                        textLeft.setText(array.rusPower20[numLeft]);
 
-                        numRight = random.nextInt(15);
+                        numRight = random.nextInt(60);
 
                         while(numLeft == numRight){
-                            numRight=random.nextInt(15);
+                            numRight=random.nextInt(60);
                         }
-                        img_right.setImageResource(array.images16[numRight]);
+                        img_right.setImageResource(array.images20[numRight]);
                         img_right.startAnimation(a);
-                        textRight.setText(array.rusPower16[numRight]);
+                        textRight.setText(array.rusPower20[numRight]);
 
                         numTop = random.nextInt(2);
                         //0 - правая картинка     1- левая
                         if (numTop == 0){
-                            textTop.setText(array.engPower16[numRight]);
+                            textTop.setText(array.engPower20[numRight]);
                         } else {
-                            textTop.setText(array.engPower16[numLeft]);
+                            textTop.setText(array.engPower20[numLeft]);
                         }
                         img_right.setEnabled(true);
                     }
@@ -301,7 +302,7 @@ public class Level16 extends AppCompatActivity {
                     //Если отпутил палец
                     if (numTop == 0){
                         if(count<20){
-                            count = count + 0.5;
+                            count = count + 0.2;
                         }
                         //закраска прогресса игры в серый цвет
                         for(int i = 0; i <20; i++){
@@ -333,30 +334,30 @@ public class Level16 extends AppCompatActivity {
                         }
 
                     }
-                    if (count == 20){
+                    if (count >= 19){
                         //Выход из уровня!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                         dialogEnd.show();
                     } else{
-                        numLeft = random.nextInt(15);
-                        img_left.setImageResource(array.images16[numLeft]); //Достаем картинку из массива
+                        numLeft = random.nextInt(60);
+                        img_left.setImageResource(array.images20[numLeft]); //Достаем картинку из массива
                         img_left.startAnimation(a);
-                        textLeft.setText(array.rusPower16[numLeft]);
+                        textLeft.setText(array.rusPower20[numLeft]);
 
-                        numRight = random.nextInt(15);
+                        numRight = random.nextInt(60);
 
                         while(numLeft == numRight){
-                            numRight=random.nextInt(15);
+                            numRight=random.nextInt(60);
                         }
-                        img_right.setImageResource(array.images16[numRight]);
+                        img_right.setImageResource(array.images20[numRight]);
                         img_right.startAnimation(a);
-                        textRight.setText(array.rusPower16[numRight]);
+                        textRight.setText(array.rusPower20[numRight]);
 
                         numTop = random.nextInt(2);
                         //0 - правая картинка     1- левая
                         if (numTop == 0){
-                            textTop.setText(array.engPower16[numRight]);
+                            textTop.setText(array.engPower20[numRight]);
                         } else {
-                            textTop.setText(array.engPower16[numLeft]);
+                            textTop.setText(array.engPower20[numLeft]);
                         }
                         img_left.setEnabled(true);
                     }
@@ -371,7 +372,7 @@ public class Level16 extends AppCompatActivity {
     @Override
     public void onBackPressed(){
         try {
-            Intent intent = new Intent(Level16.this, GameLevels.class);
+            Intent intent = new Intent(Level20.this, GameLevels.class);
             startActivity(intent); finish();
         }catch (Exception e){
 
