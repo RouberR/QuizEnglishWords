@@ -25,6 +25,17 @@
     <string name="level_18">Уровень: 18</string>
     <string name="level_19">Уровень: 19</string>
     <string name="level_20">Уровень: 20</string>
+    <string name="level_21">Уровень: 21</string>
+    <string name="level_22">Уровень: 22</string>
+    <string name="level_23">Уровень: 23</string>
+    <string name="level_24">Уровень: 24</string>
+    <string name="level_25">Уровень: 25</string>
+    <string name="level_26">Уровень: 26</string>
+    <string name="level_27">Уровень: 27</string>
+    <string name="level_28">Уровень: 28</string>
+    <string name="level_29">Уровень: 29</string>
+    <string name="level_30">Уровень: 30</string>
+
 
     <string name="textcontinue">Продолжить</string>
 </resources>

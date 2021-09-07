@@ -50,21 +50,21 @@
     <string name="level2text14">Змея</string>
     <string name="level2text15">Черепаха</string>
 
-    <string name="level2text1Eng">Bird</string>
-    <string name="level2text2Eng">Camel</string>
-    <string name="level2text3Eng">Chicken</string>
-    <string name="level2text4Eng">Crocodile</string>
-    <string name="level2text5Eng">Deer</string>
-    <string name="level2text6Eng">Giraffe</string>
-    <string name="level2text7Eng">Goat</string>
-    <string name="level2text8Eng">Hamster</string>
-    <string name="level2text9Eng">Hedgehog</string>
-    <string name="level2text10Eng">Horse</string>
-    <string name="level2text11Eng">Lion</string>
-    <string name="level2text12Eng">Ox</string>
-    <string name="level2text13Eng">Sheep</string>
-    <string name="level2text14Eng">Snake</string>
-    <string name="level2text15Eng">Turtle</string>
+    <string name="level2text1Eng">Bird\n[bɜːrd]</string>
+    <string name="level2text2Eng">Camel\n[ˈkæml]</string>
+    <string name="level2text3Eng">Chicken\n[ˈtʃɪkɪn]</string>
+    <string name="level2text4Eng">Crocodile\n[ˈkrɑːkədaɪl]</string>
+    <string name="level2text5Eng">Deer\n[dɪr]</string>
+    <string name="level2text6Eng">Giraffe\n[dʒəˈræf]</string>
+    <string name="level2text7Eng">Goat\n[ɡəʊt]</string>
+    <string name="level2text8Eng">Hamster\n[ˈhæmstər]</string>
+    <string name="level2text9Eng">Hedgehog\n[ˈhedʒhɔːɡ]</string>
+    <string name="level2text10Eng">Horse\n[hɔːrs]</string>
+    <string name="level2text11Eng">Lion\n[ˈlaɪən]</string>
+    <string name="level2text12Eng">Ox\n[ɑːks]</string>
+    <string name="level2text13Eng">Sheep\n[ʃiːp]</string>
+    <string name="level2text14Eng">Snake\n[sneɪk]</string>
+    <string name="level2text15Eng">Turtle\n[ˈtɜːrtl]</string>
 
 
     <string name="level3text1">Хамелеон</string>
@@ -201,21 +201,21 @@
 
 
 
-    <string name="level8text1">греча</string>
-    <string name="level8text2">масло</string>
-    <string name="level8text3">торт</string>
-    <string name="level8text4">сыр</string>
-    <string name="level8text5">чипсы</string>
-    <string name="level8text6">кофе</string>
-    <string name="level8text7">яйцо</string>
-    <string name="level8text8">мука</string>
-    <string name="level8text9">сок</string>
-    <string name="level8text10">кетчуп</string>
-    <string name="level8text11">мясо</string>
-    <string name="level8text12">молоко</string>
-    <string name="level8text13">гриб</string>
-    <string name="level8text14">пирог</string>
-    <string name="level8text15">рис</string>
+    <string name="level8text1">Греча</string>
+    <string name="level8text2">Масло</string>
+    <string name="level8text3">Торт</string>
+    <string name="level8text4">Сыр</string>
+    <string name="level8text5">Чипсы</string>
+    <string name="level8text6">Кофе</string>
+    <string name="level8text7">Яйцо</string>
+    <string name="level8text8">Мука</string>
+    <string name="level8text9">Сок</string>
+    <string name="level8text10">Кетчуп</string>
+    <string name="level8text11">Мясо</string>
+    <string name="level8text12">Молоко</string>
+    <string name="level8text13">Гриб</string>
+    <string name="level8text14">Пирог</string>
+    <string name="level8text15">Рис</string>
 
     <string name="level8text1Eng">Buckwheat\n[ˈbʌkwiːt]</string>
     <string name="level8text2Eng">Butter \n[ˈbʌtər]</string>
@@ -234,21 +234,21 @@
     <string name="level8text15Eng">Rice\n[raɪs]</string>
 
 
-    <string name="level9text1">миска</string>
-    <string name="level9text2">чашка</string>
-    <string name="level9text3">вилка</string>
-    <string name="level9text4">сковорода </string>
-    <string name="level9text5">стакан</string>
-    <string name="level9text6">чайник</string>
-    <string name="level9text7">нож</string>
-    <string name="level9text8">кружка</string>
-    <string name="level9text9">тарелка</string>
-    <string name="level9text10">кастрюля</string>
-    <string name="level9text11">сито</string>
-    <string name="level9text12">суп</string>
-    <string name="level9text13">ложка</string>
-    <string name="level9text14">чай</string>
-    <string name="level9text15">поднос</string>
+    <string name="level9text1">Миска</string>
+    <string name="level9text2">Чашка</string>
+    <string name="level9text3">Вилка</string>
+    <string name="level9text4">Сковорода </string>
+    <string name="level9text5">Стакан</string>
+    <string name="level9text6">Чайник</string>
+    <string name="level9text7">Нож</string>
+    <string name="level9text8">Кружка</string>
+    <string name="level9text9">Тарелка</string>
+    <string name="level9text10">Кастрюля</string>
+    <string name="level9text11">Сито</string>
+    <string name="level9text12">Суп</string>
+    <string name="level9text13">Ложка</string>
+    <string name="level9text14">Чай</string>
+    <string name="level9text15">Поднос</string>
 
     <string name="level9text1Eng">Bowl\n[bəʊl]</string>
     <string name="level9text2Eng">Cup\n[kʌp]</string>
@@ -267,21 +267,21 @@
     <string name="level9text15Eng">Tray\n[treɪ]</string>
 
 
-    <string name="level11text1">янтарь</string>
-    <string name="level11text2">бежевый</string>
-    <string name="level11text3">черный</string>
-    <string name="level11text4">синий </string>
-    <string name="level11text5">коричневый</string>
-    <string name="level11text6">малиновый</string>
-    <string name="level11text7">золотой</string>
-    <string name="level11text8">серый</string>
-    <string name="level11text9">зеленый</string>
-    <string name="level11text10">оранжевый</string>
-    <string name="level11text11">розовый</string>
-    <string name="level11text12">фиолетовый</string>
-    <string name="level11text13">красный</string>
-    <string name="level11text14">белый</string>
-    <string name="level11text15">желтый</string>
+    <string name="level11text1">Янтарь</string>
+    <string name="level11text2">Бежевый</string>
+    <string name="level11text3">Черный</string>
+    <string name="level11text4">Синий </string>
+    <string name="level11text5">Коричневый</string>
+    <string name="level11text6">Малиновый</string>
+    <string name="level11text7">Золотой</string>
+    <string name="level11text8">Серый</string>
+    <string name="level11text9">Зеленый</string>
+    <string name="level11text10">Оранжевый</string>
+    <string name="level11text11">Розовый</string>
+    <string name="level11text12">Фиолетовый</string>
+    <string name="level11text13">Красный</string>
+    <string name="level11text14">Белый</string>
+    <string name="level11text15">Желтый</string>
 
     <string name="level11text1Eng">Amber\n[ˈæmbər]</string>
     <string name="level11text2Eng">Beige\n[beɪʒ]</string>
@@ -300,20 +300,20 @@
     <string name="level11text15Eng">Yellow\n[ˈjeləʊ]</string>
 
 
-    <string name="level12text1">облачный</string>
-    <string name="level12text2">туман</string>
-    <string name="level12text3">град</string>
-    <string name="level12text4">ураган </string>
-    <string name="level12text5">лед</string>
-    <string name="level12text6">молния</string>
-    <string name="level12text7">дождь</string>
-    <string name="level12text8">радуга</string>
-    <string name="level12text9">дождь со снегом</string>
-    <string name="level12text10">снег</string>
-    <string name="level12text11">солнце</string>
-    <string name="level12text12">гроза</string>
-    <string name="level12text13">погода</string>
-    <string name="level12text14">ветер</string>
+    <string name="level12text1">Облачный</string>
+    <string name="level12text2">Туман</string>
+    <string name="level12text3">Град</string>
+    <string name="level12text4">Ураган </string>
+    <string name="level12text5">Лед</string>
+    <string name="level12text6">Молния</string>
+    <string name="level12text7">Дождь</string>
+    <string name="level12text8">Радуга</string>
+    <string name="level12text9">Дождь со снегом</string>
+    <string name="level12text10">Снег</string>
+    <string name="level12text11">Солнце</string>
+    <string name="level12text12">Гроза</string>
+    <string name="level12text13">Погода</string>
+    <string name="level12text14">Ветер</string>
     <string name="level12text15">Местами солнечно</string>
 
     <string name="level12text1Eng">Cloudy\n[ˈklaʊdɪ]</string>
@@ -333,21 +333,21 @@
     <string name="level12text15Eng">Partly Sunny\n</string>
 
 
-    <string name="level13text1">кресло</string>
-    <string name="level13text2">кровать</string>
-    <string name="level13text3">скамейка</string>
-    <string name="level13text4">шкаф </string>
-    <string name="level13text5">ковер</string>
-    <string name="level13text6">стул</string>
-    <string name="level13text7">колыбель</string>
-    <string name="level13text8">занавески</string>
-    <string name="level13text9">подушка  </string>
-    <string name="level13text10">письменный стол</string>
-    <string name="level13text11">гамак</string>
-    <string name="level13text12">лампа</string>
-    <string name="level13text13">зеркало</string>
-    <string name="level13text14">диван</string>
-    <string name="level13text15">стол </string>
+    <string name="level13text1">Кресло</string>
+    <string name="level13text2">Кровать</string>
+    <string name="level13text3">Скамейка</string>
+    <string name="level13text4">Шкаф </string>
+    <string name="level13text5">Ковер</string>
+    <string name="level13text6">Стул</string>
+    <string name="level13text7">Колыбель</string>
+    <string name="level13text8">Занавески</string>
+    <string name="level13text9">Подушка  </string>
+    <string name="level13text10">Письменный стол</string>
+    <string name="level13text11">Гамак</string>
+    <string name="level13text12">Лампа</string>
+    <string name="level13text13">Зеркало</string>
+    <string name="level13text14">Диван</string>
+    <string name="level13text15">Стол </string>
 
     <string name="level13text1Eng">Armchair\n[ˈɑːrmtʃer]</string>
     <string name="level13text2Eng">Bed\n[bed]</string>
@@ -366,21 +366,21 @@
     <string name="level13text15Eng">Table\n[ˈteɪbl]</string>
 
 
-    <string name="level14text1">ремень</string>
-    <string name="level14text2">ботинки</string>
-    <string name="level14text3">плащ</string>
-    <string name="level14text4">пальто</string>
-    <string name="level14text5">платье</string>
-    <string name="level14text6">перчатки</string>
-    <string name="level14text7">шляпа</string>
-    <string name="level14text8">куртка</string>
-    <string name="level14text9">джинсы</string>
-    <string name="level14text10">трусики</string>
-    <string name="level14text11">пижама</string>
-    <string name="level14text12">шарф</string>
-    <string name="level14text13">рубашка</string>
-    <string name="level14text14">обувь</string>
-    <string name="level14text15">шорты</string>
+    <string name="level14text1">Ремень</string>
+    <string name="level14text2">Ботинки</string>
+    <string name="level14text3">Плащ</string>
+    <string name="level14text4">Пальто</string>
+    <string name="level14text5">Платье</string>
+    <string name="level14text6">Перчатки</string>
+    <string name="level14text7">Шляпа</string>
+    <string name="level14text8">Куртка</string>
+    <string name="level14text9">Джинсы</string>
+    <string name="level14text10">Трусики</string>
+    <string name="level14text11">Пижама</string>
+    <string name="level14text12">Шарф</string>
+    <string name="level14text13">Рубашка</string>
+    <string name="level14text14">Обувь</string>
+    <string name="level14text15">Шорты</string>
 
     <string name="level14text1Eng">Belt\n[belt]</string>
     <string name="level14text2Eng">Boots\n[buːts ]</string>
@@ -399,21 +399,21 @@
     <string name="level14text15Eng">Shorts\n[ʃɔːrts]</string>
 
 
-    <string name="level16text1">галстук-бабочка</string>
-    <string name="level16text2">кепка</string>
-    <string name="level16text3">сумка</string>
-    <string name="level16text4">толстовка с капюшоном</string>
-    <string name="level16text5">ожерелье</string>
-    <string name="level16text6">спецодежда</string>
-    <string name="level16text7">кольцо</string>
-    <string name="level16text8">юбка</string>
-    <string name="level16text9">тапочки</string>
-    <string name="level16text10">кроссовки</string>
-    <string name="level16text11">носоки</string>
-    <string name="level16text12">свитер</string>
-    <string name="level16text13">галстук</string>
-    <string name="level16text14">зонтик</string>
-    <string name="level16text15">часы</string>
+    <string name="level16text1">Галстук-бабочка</string>
+    <string name="level16text2">Кепка</string>
+    <string name="level16text3">Сумка</string>
+    <string name="level16text4">Толстовка с капюшоном</string>
+    <string name="level16text5">Ожерелье</string>
+    <string name="level16text6">Спецодежда</string>
+    <string name="level16text7">Кольцо</string>
+    <string name="level16text8">Юбка</string>
+    <string name="level16text9">Тапочки</string>
+    <string name="level16text10">Кроссовки</string>
+    <string name="level16text11">Носоки</string>
+    <string name="level16text12">Свитер</string>
+    <string name="level16text13">Галстук</string>
+    <string name="level16text14">Зонтик</string>
+    <string name="level16text15">Часы</string>
 
     <string name="level16text1Eng">Bow tie\n[baʊ taɪ]</string>
     <string name="level16text2Eng">Cap\n[kæp ]</string>
@@ -432,21 +432,21 @@
     <string name="level16text15Eng">Watch\n[wɑːtʃ]</string>
 
 
-    <string name="level17text1">метла</string>
-    <string name="level17text2">ведро</string>
-    <string name="level17text3">прищепка</string>
-    <string name="level17text4">совок для мусора  </string>
-    <string name="level17text5">мусор</string>
-    <string name="level17text6">утюг</string>
-    <string name="level17text7">гладильная доска</string>
-    <string name="level17text8">микроволновая печь</string>
-    <string name="level17text9">швабра</string>
-    <string name="level17text10">холодильник</string>
-    <string name="level17text11">раковина</string>
-    <string name="level17text12">губка</string>
-    <string name="level17text13">плита</string>
-    <string name="level17text14">полотенце</string>
-    <string name="level17text15">пылесос</string>
+    <string name="level17text1">Метла</string>
+    <string name="level17text2">Ведро</string>
+    <string name="level17text3">Прищепка</string>
+    <string name="level17text4">Совок для мусора  </string>
+    <string name="level17text5">Мусор</string>
+    <string name="level17text6">Утюг</string>
+    <string name="level17text7">Гладильная доска</string>
+    <string name="level17text8">Микроволновая печь</string>
+    <string name="level17text9">Швабра</string>
+    <string name="level17text10">Холодильник</string>
+    <string name="level17text11">Раковина</string>
+    <string name="level17text12">Губка</string>
+    <string name="level17text13">Плита</string>
+    <string name="level17text14">Полотенце</string>
+    <string name="level17text15">Пылесос</string>
 
     <string name="level17text1Eng">Broom\n[bruːm]</string>
     <string name="level17text2Eng">Bucket\n[ˈbʌkɪt]</string>
@@ -465,21 +465,21 @@
     <string name="level17text15Eng">Vacuum cleaner\n</string>
 
 
-    <string name="level18text1">ванна</string>
-    <string name="level18text2">расческа</string>
-    <string name="level18text3">фен</string>
-    <string name="level18text4">салфетка</string>
-    <string name="level18text5">радиатор</string>
-    <string name="level18text6">бритва</string>
-    <string name="level18text7">весы </string>
+    <string name="level18text1">Ванна</string>
+    <string name="level18text2">Расческа</string>
+    <string name="level18text3">Фен</string>
+    <string name="level18text4">Салфетка</string>
+    <string name="level18text5">Радиатор</string>
+    <string name="level18text6">Бритва</string>
+    <string name="level18text7">Весы </string>
     <string name="level18text8">Резинка для волос</string>
-    <string name="level18text9">мыло</string>
-    <string name="level18text10">розетка</string>
-    <string name="level18text11">тостер</string>
-    <string name="level18text12">туалет</string>
-    <string name="level18text13">зубная щетка</string>
-    <string name="level18text14">зубная паста</string>
-    <string name="level18text15">ваза</string>
+    <string name="level18text9">Мыло</string>
+    <string name="level18text10">Розетка</string>
+    <string name="level18text11">Тостер</string>
+    <string name="level18text12">Туалет</string>
+    <string name="level18text13">Зубная щетка</string>
+    <string name="level18text14">Зубная паста</string>
+    <string name="level18text15">Ваза</string>
 
     <string name="level18text1Eng">Bath\n[bæθ]</string>
     <string name="level18text2Eng">Comb\n[kəʊm]</string>
@@ -498,21 +498,21 @@
     <string name="level18text15Eng">Vase\n[veɪs]</string>
 
 
-    <string name="level19text1">квартира</string>
-    <string name="level19text2">балкон</string>
-    <string name="level19text3">ванная комната</string>
-    <string name="level19text4">спальня</string>
-    <string name="level19text5">дверь</string>
-    <string name="level19text6">дверной звонок</string>
-    <string name="level19text7">гараж </string>
-    <string name="level19text8">дом  </string>
-    <string name="level19text9">кухня</string>
-    <string name="level19text10">гостиная</string>
-    <string name="level19text11">почтовый ящик</string>
-    <string name="level19text12">крыша</string>
-    <string name="level19text13">душ </string>
-    <string name="level19text14">лестница </string>
-    <string name="level19text15">окно</string>
+    <string name="level19text1">Квартира</string>
+    <string name="level19text2">Балкон</string>
+    <string name="level19text3">Ванная комната</string>
+    <string name="level19text4">Спальня</string>
+    <string name="level19text5">Дверь</string>
+    <string name="level19text6">Дверной звонок</string>
+    <string name="level19text7">Гараж </string>
+    <string name="level19text8">Дом  </string>
+    <string name="level19text9">Кухня</string>
+    <string name="level19text10">Гостиная</string>
+    <string name="level19text11">Почтовый ящик</string>
+    <string name="level19text12">Крыша</string>
+    <string name="level19text13">Душ </string>
+    <string name="level19text14">Лестница </string>
+    <string name="level19text15">Окно</string>
 
     <string name="level19text1Eng">Apartment\n[əˈpɑːrtmənt]</string>
     <string name="level19text2Eng">Balcony\n[ˈbælkənɪ]</string>
@@ -530,4 +530,230 @@
     <string name="level19text14Eng">Stairs\n[ˈsterz]</string>
     <string name="level19text15Eng">Window\n[ˈwɪndəʊ]</string>
 
+
+    <string name="level21text1">Самолет</string>
+    <string name="level21text2">Скорая помощь</string>
+    <string name="level21text3">Воздушный шар </string>
+    <string name="level21text4">Велосипед</string>
+    <string name="level21text5">Лодка</string>
+    <string name="level21text6">Автобус </string>
+    <string name="level21text7">Автомобиль </string>
+    <string name="level21text8">Вертолет  </string>
+    <string name="level21text9">Плот</string>
+    <string name="level21text10">Скутер</string>
+    <string name="level21text11">Корабль </string>
+    <string name="level21text12">Такси</string>
+    <string name="level21text13">Поезд </string>
+    <string name="level21text14">Трамвай </string>
+    <string name="level21text15">Фургон</string>
+
+    <string name="level21text1Eng">Airplane\n[ˈerpleɪn]</string>
+    <string name="level21text2Eng">Ambulance\n[ˈæmbjələns]</string>
+    <string name="level21text3Eng">Balloon\n[bəˈluːn]</string>
+    <string name="level21text4Eng">Bicycle\n[ˈbaɪsɪkl] </string>
+    <string name="level21text5Eng">Boat\n [bəʊt]</string>
+    <string name="level21text6Eng">Bus\n[bʌs]</string>
+    <string name="level21text7Eng">Car \n[kɑːr]</string>
+    <string name="level21text8Eng">Helicopter\n[ˈhelɪkɑːptər]</string>
+    <string name="level21text9Eng">Raft\n[ræft]</string>
+    <string name="level21text10Eng">Scooter \n[ˈskuːtər]</string>
+    <string name="level21text11Eng">Ship\n[ʃɪp]</string>
+    <string name="level21text12Eng">Taxi\n[ˈtæksɪ] </string>
+    <string name="level21text13Eng">Train\n[treɪn]</string>
+    <string name="level21text14Eng">Tram\n[træm]</string>
+    <string name="level21text15Eng">Van\n[ven]</string>
+
+    <string name="level22text1">Бухгалтер</string>
+    <string name="level22text2">Астроном </string>
+    <string name="level22text3">Пекарь  </string>
+    <string name="level22text4">Мясник</string>
+    <string name="level22text5">Уборщик</string>
+    <string name="level22text6">Дантист</string>
+    <string name="level22text7">Доктор </string>
+    <string name="level22text8">Инженер  </string>
+    <string name="level22text9">Пожарный</string>
+    <string name="level22text10">Фрилансер</string>
+    <string name="level22text11">Парикмахер </string>
+    <string name="level22text12">Почтальон</string>
+    <string name="level22text13">Ученый </string>
+    <string name="level22text14">Учитель </string>
+    <string name="level22text15">Официант</string>
+
+    <string name="level22text1Eng">Accountant\n[əˈkaʊntənt]</string>
+    <string name="level22text2Eng">Astronomer\n[əˈstrɑːnəmər]</string>
+    <string name="level22text3Eng">Baker\n[ˈbeɪkər]</string>
+    <string name="level22text4Eng">Butcher\n[ˈbʊtʃər] </string>
+    <string name="level22text5Eng">Cleaner\n [ˈkliːnər]</string>
+    <string name="level22text6Eng">Dentist\n[ˈdentɪst]</string>
+    <string name="level22text7Eng">Doctor \n[ˈdɑːktər]</string>
+    <string name="level22text8Eng">Engineer\n[ˌendʒɪˈnɪr]</string>
+    <string name="level22text9Eng">Fireman\n[ˈfaɪərmən]</string>
+    <string name="level22text10Eng">Freelancer \n[ˈfriːlænsər]</string>
+    <string name="level22text11Eng">Hairdresser\n[ˈherdresər]</string>
+    <string name="level22text12Eng">Postman\n[ˈpəʊstmən] </string>
+    <string name="level22text13Eng">Scientist\n[ˈsaɪəntɪst]</string>
+    <string name="level22text14Eng">Teacher\n[ˈtiːtʃər]</string>
+    <string name="level22text15Eng">Waiter\n[ˈweɪtər]</string>
+
+
+    <string name="level23text1">Лысый</string>
+    <string name="level23text2">Борода </string>
+    <string name="level23text3">Вьющиеся волосы</string>
+    <string name="level23text4">Ухо</string>
+    <string name="level23text5">Лицо</string>
+    <string name="level23text6">Толстый</string>
+    <string name="level23text7">Стопы</string>
+    <string name="level23text8">Рука</string>
+    <string name="level23text9">Рост</string>
+    <string name="level23text10">Колено</string>
+    <string name="level23text11">Нога </string>
+    <string name="level23text12">Усы</string>
+    <string name="level23text13">Шея</string>
+    <string name="level23text14">Худой </string>
+    <string name="level23text15">Язык</string>
+
+    <string name="level23text1Eng">Bald\n[bɔːld]</string>
+    <string name="level23text2Eng">Beard\n[bɪrd]</string>
+    <string name="level23text3Eng">Curly hair\n</string>
+    <string name="level23text4Eng">Ear\n[ɪr] </string>
+    <string name="level23text5Eng">Face\n [feɪs]</string>
+    <string name="level23text6Eng">Fat\n[fæt]</string>
+    <string name="level23text7Eng">Feet \n[fiːt]</string>
+    <string name="level23text8Eng">Hand\n[hænd]</string>
+    <string name="level23text9Eng">Height\n[haɪt]</string>
+    <string name="level23text10Eng">Knee\n[niː]</string>
+    <string name="level23text11Eng">Leg\n[leɡ]</string>
+    <string name="level23text12Eng">Moustache\n[ˈmʌstæʃ] </string>
+    <string name="level23text13Eng">Neck\n[nek]</string>
+    <string name="level23text14Eng">Thin\n[θɪn]</string>
+    <string name="level23text15Eng">Tongue\n[tʌŋ]</string>
+
+    <string name="level24text1">Кровь</string>
+    <string name="level24text2">Мозг </string>
+    <string name="level24text3">Глаза </string>
+    <string name="level24text4">Палец</string>
+    <string name="level24text5">Голова</string>
+    <string name="level24text6">Сердце</string>
+    <string name="level24text7">Губа</string>
+    <string name="level24text8">Печень</string>
+    <string name="level24text9">Легкое</string>
+    <string name="level24text10">Нос</string>
+    <string name="level24text11">Скелет</string>
+    <string name="level24text12">Кожа</string>
+    <string name="level24text13">Череп</string>
+    <string name="level24text14">Горло </string>
+    <string name="level24text15">Зуб</string>
+
+    <string name="level24text1Eng">Blood\n[blʌd]</string>
+    <string name="level24text2Eng">Brain\n[breɪn]</string>
+    <string name="level24text3Eng">Eyes\n[ˈaɪz]</string>
+    <string name="level24text4Eng">Finger\n[ˈfɪŋɡər] </string>
+    <string name="level24text5Eng">Head\n [hed]</string>
+    <string name="level24text6Eng">Heart\n[hɑːrt]</string>
+    <string name="level24text7Eng">Lip \n[lɪp]</string>
+    <string name="level24text8Eng">Liver\n[ˈlɪvər]</string>
+    <string name="level24text9Eng">Lung\n[lʌŋ]</string>
+    <string name="level24text10Eng">Nose\n[nəʊz]</string>
+    <string name="level24text11Eng">Skeleton\n[ˈskelɪtn]</string>
+    <string name="level24text12Eng">Skin\n[skɪn] </string>
+    <string name="level24text13Eng">Skull\n[skʌl]</string>
+    <string name="level24text14Eng">Throat\n[θrəʊt]</string>
+    <string name="level24text15Eng">Tooth\n[tuːθ]</string>
+
+    <string name="level26text1">Испуганный</string>
+    <string name="level26text2">Сердитый</string>
+    <string name="level26text3">Ужасающе</string>
+    <string name="level26text4">Отвращение</string>
+    <string name="level26text5">Забота</string>
+    <string name="level26text6">Сумасшедший</string>
+    <string name="level26text7">Любопытный</string>
+    <string name="level26text8">Разочарованный</string>
+    <string name="level26text9">Счастливый</string>
+    <string name="level26text10">Безразличие</string>
+    <string name="level26text11">Ленивый</string>
+    <string name="level26text12">Любовь</string>
+    <string name="level26text13">Печальный</string>
+    <string name="level26text14">Застенчивый</string>
+    <string name="level26text15">Удивленный</string>
+
+    <string name="level26text1Eng">Afraid\n[əˈfreɪd]</string>
+    <string name="level26text2Eng">Angry\n[ˈæŋɡrɪ]</string>
+    <string name="level26text3Eng">Appallingly\n[əˈpɔːlɪŋlɪ]</string>
+    <string name="level26text4Eng">Aversion\n[əˈvɜːrʒn] </string>
+    <string name="level26text5Eng">Care\n [ker]</string>
+    <string name="level26text6Eng">Crazy\n[ˈkreɪzɪ]</string>
+    <string name="level26text7Eng">Curious \n[ˈkjʊrɪəs]</string>
+    <string name="level26text8Eng">Disappointed\n[ˌdɪsəˈpɔɪntɪd]</string>
+    <string name="level26text9Eng">Happy\n[ˈhæpɪ]</string>
+    <string name="level26text10Eng">Indifference\n[ɪnˈdɪfrəns]</string>
+    <string name="level26text11Eng">Lazy\n[ˈleɪzɪ]</string>
+    <string name="level26text12Eng">Love\n[lʌv] </string>
+    <string name="level26text13Eng">Sad\n[sæd]</string>
+    <string name="level26text14Eng">Shy\n[ʃaɪ]</string>
+    <string name="level26text15Eng">Surprised\n[sərˈpraɪzd]</string>
+
+    <string name="level27text1">Смерть</string>
+    <string name="level27text2">Образование</string>
+    <string name="level27text3">Огонь</string>
+    <string name="level27text4">Бог</string>
+    <string name="level27text5">Правительство</string>
+    <string name="level27text6">Идея</string>
+    <string name="level27text7">Царь</string>
+    <string name="level27text8">Земля</string>
+    <string name="level27text9">Закон</string>
+    <string name="level27text10">Деньги</string>
+    <string name="level27text11">Гора</string>
+    <string name="level27text12">Музыка</string>
+    <string name="level27text13">Заказ</string>
+    <string name="level27text14">Картина</string>
+    <string name="level27text15">Исследование</string>
+
+    <string name="level27text1Eng">Death\n[deθ]</string>
+    <string name="level27text2Eng">Education\n[ˌedʒʊˈkeɪʃn]</string>
+    <string name="level27text3Eng">Fire\n[ˈfaɪər]</string>
+    <string name="level27text4Eng">God\n[ɡɑːd] </string>
+    <string name="level27text5Eng">Government\n [ˈɡʌvərnmənt]</string>
+    <string name="level27text6Eng">Idea\n[aɪˈdiːə]</string>
+    <string name="level27text7Eng">King\n[kɪŋ]</string>
+    <string name="level27text8Eng">Land\n[lænd]</string>
+    <string name="level27text9Eng">Law\n[lɔː]</string>
+    <string name="level27text10Eng">Money\n[ˈmʌnɪ]</string>
+    <string name="level27text11Eng">Mountain\n[ˈmaʊntn]</string>
+    <string name="level27text12Eng">Music\n[ˈmjuːzɪk] </string>
+    <string name="level27text13Eng">Order\n[ˈɔːrdər]</string>
+    <string name="level27text14Eng">Picture\n[ˈpɪktʃər]</string>
+    <string name="level27text15Eng">Research\n[rɪˈsɜːrtʃ]</string>
+
+
+    <string name="level28text1">Чужой</string>
+    <string name="level28text2">Взяточничество</string>
+    <string name="level28text3">Мост</string>
+    <string name="level28text4">Здание</string>
+    <string name="level28text5">Глина</string>
+    <string name="level28text6">Мрак</string>
+    <string name="level28text7">Остров</string>
+    <string name="level28text8">Болото</string>
+    <string name="level28text9">Луг</string>
+    <string name="level28text10">Луна</string>
+    <string name="level28text11">Линейка</string>
+    <string name="level28text12">Наука</string>
+    <string name="level28text13">Сугроб</string>
+    <string name="level28text14">Пространство</string>
+    <string name="level28text15">Путь</string>
+
+    <string name="level28text1Eng">Alien\n[ˈeɪlɪən]</string>
+    <string name="level28text2Eng">Bribery\n[ˈbraɪbərɪ]</string>
+    <string name="level28text3Eng">Bridge\n[brɪdʒ]</string>
+    <string name="level28text4Eng">Building\n[ˈbɪldɪŋ] </string>
+    <string name="level28text5Eng">Clay\n [kleɪ]</string>
+    <string name="level28text6Eng">Gloom\n[ɡluːm]</string>
+    <string name="level28text7Eng">Island\n[ˈaɪlənd]</string>
+    <string name="level28text8Eng">Marsh\n[mɑːrʃ]</string>
+    <string name="level28text9Eng">Meadow\n[ˈmedəʊ]</string>
+    <string name="level28text10Eng">Moon\n[muːn]</string>
+    <string name="level28text11Eng">Ruler\n[ˈruːlər]</string>
+    <string name="level28text12Eng">Science\n[ˈsaɪəns] </string>
+    <string name="level28text13Eng">Snowdrift\n[ˈsnəʊdrɪft]</string>
+    <string name="level28text14Eng">Space\n[speɪs]</string>
+    <string name="level28text15Eng">Way\n[weɪ]</string>
 </resources>

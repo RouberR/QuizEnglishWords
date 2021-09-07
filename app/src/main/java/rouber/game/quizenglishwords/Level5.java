@@ -2,6 +2,7 @@ package rouber.game.quizenglishwords;
 
 import android.app.Dialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -68,7 +69,7 @@ public class Level5 extends AppCompatActivity {
 
 //Установка картинки в диалог окно
         ImageView previewimg = dialog.findViewById(R.id.previewimg);
-        previewimg.setImageResource(R.drawable.pig);
+        previewimg.setImageResource(R.drawable.cat);
 
 
 // описание задания
@@ -257,6 +258,15 @@ public class Level5 extends AppCompatActivity {
                     }
                     if (count >= 19){
                         //Выход из уровня!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+                        final int level = save.getInt("Level", 1);
+                        if(level>5){
+
+                        }else{
+                            SharedPreferences.Editor editor = save.edit();
+                            editor.putInt("Level", 6);
+                            editor.commit();
+                        }
                         dialogEnd.show();
                     } else{
                         numLeft = random.nextInt(60);
@@ -341,6 +351,15 @@ public class Level5 extends AppCompatActivity {
                     }
                     if (count >= 19){
                         //Выход из уровня!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+                        final int level = save.getInt("Level", 1);
+                        if(level>5){
+
+                        }else{
+                            SharedPreferences.Editor editor = save.edit();
+                            editor.putInt("Level", 6);
+                            editor.commit();
+                        }
                         dialogEnd.show();
                     } else{
                         numLeft = random.nextInt(60);

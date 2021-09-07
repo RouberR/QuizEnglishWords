@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Dialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -16,6 +17,9 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.google.android.gms.ads.InterstitialAd;
+import com.google.android.gms.ads.MobileAds;
 
 import org.w3c.dom.Text;
 
@@ -33,12 +37,16 @@ public class Level1 extends AppCompatActivity {
     Array array = new Array();
     Random random = new Random(); // генерация
     public int count = 0;
+    public InterstitialAd interstitialAd; //Реклама
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.universal);
+
+        //Рекламма начало
+        MobileAds.initialize(this, "Индетификатор приложения");
 
         TextView textLevels = findViewById(R.id.text_levels); // текст Уровень 1
         textLevels.setText(R.string.level_1);
@@ -88,6 +96,10 @@ public class Level1 extends AppCompatActivity {
                 dialog.dismiss();
             }
         });
+//Установка картинки в диалог окно
+        ImageView previewimg = dialog.findViewById(R.id.previewimg);
+        previewimg.setImageResource(R.drawable.abc);
+
 
 
         dialog.show(); // показать диалоговое окно
@@ -238,6 +250,15 @@ public class Level1 extends AppCompatActivity {
                     }
                     if (count == 20){
                         //Выход из уровня!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+                        final int level = save.getInt("Level", 1);
+                        if(level>1){
+
+                        }else{
+                            SharedPreferences.Editor editor = save.edit();
+                            editor.putInt("Level", 2);
+                            editor.commit();
+                        }
                         dialogEnd.show();
                     } else{
                         numLeft = random.nextInt(15);
@@ -322,6 +343,15 @@ public class Level1 extends AppCompatActivity {
                     }
                     if (count == 20){
                         //Выход из уровня!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                        SharedPreferences save = getSharedPreferences("Save", MODE_PRIVATE);
+                        final int level = save.getInt("Level", 1);
+                        if(level>1){
+
+                        }else{
+                            SharedPreferences.Editor editor = save.edit();
+                            editor.putInt("Level", 2);
+                            editor.commit();
+                        }
                        dialogEnd.show();
                     } else{
                         numLeft = random.nextInt(15);

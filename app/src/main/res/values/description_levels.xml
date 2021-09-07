@@ -1,64 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="level1">Повторяем алфавит. \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
-    <string name="level1end">Поздравляю уровень пройден! \n</string>
+    <string name="level1">Повторяем алфавит.\n Внимание! В игре присутствует американская транскрипция.   \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level1end">Поздравляю первый уровень пройден!\n</string>
 
-    <string name="level2">Информация для второго уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level2">Pig out [ˈpɪɡˌaʊt] - объедаться, обжираться</string>
     <string name="level2end">Поздравляю уровень пройден!! \n</string>
 
-    <string name="level3">Информация для третьего уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level3">Repeat like a parrot — повторять как попугай</string>
     <string name="level3end">Поздравляю уровень пройден!!! \n</string>
 
-    <string name="level4">Информация для 4 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
-    <string name="level4end">Поздравляю уровень пройден!!!! \n</string>
+    <string name="level4">Fly with the owl — вести ночной образ жизни</string>
+    <string name="level4end">Ура, вы на верном пути! \n</string>
 
-    <string name="level5">Информация для 5 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level5">To let the cat out of the bag — проговориться, нечаянно выболтать секрет\n A young cat is a kitten. - Детёныша кошки называют котёнком.</string>
     <string name="level5end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level6">Информация для 6 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level6">lemon face — Кислое выражение лица</string>
     <string name="level6end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level7">Информация для 7 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level7">To stink of onion — вонять луком</string>
     <string name="level7end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level8">Информация для 8 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level8">Fish and chips to take away, please. - Рыбу с чипсами с собой, пожалуйста</string>
     <string name="level8end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level9">Информация для 9 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level9">Bring us two cups of tea. - Принесите нам две чашки чая</string>
     <string name="level9end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level10">Информация для 10 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level10">Сarrot top — рыжеволосый человек; рыжий \n "Sir, Carrot Top is trying to kill himself!" - Мсье, Рыжик собирается убить себя!</string>
     <string name="level10end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level11">Информация для 11 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level11">The emblem of socialist parties is often a red rose held in a fist. - Классическая эмблема социалистических партий - красная роза, зажатая в кулаке.</string>
     <string name="level11end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level12">Информация для 12 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level12">Rainbow chaser — мечтатель</string>
     <string name="level12end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level13">Информация для 13 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level13">We didn`t have a financial cushion when my husband lost his job. - Когда мой муж потерял работу, у нас не было финансовой подушки.</string>
     <string name="level13end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level14">Информация для 14 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level14">So I bought you a chastity belt. - Итак, я купил тебе пояс целомудрия.</string>
     <string name="level14end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level15">Информация для 15 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level15">I think you look very... pretty in your dress. - Я считаю, что вы выглядете очень... мило в этом платье.</string>
     <string name="level15end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level16">Информация для 16 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level16">Put your socks, old man, go back to work. - Забирай свои носки, старикан, и возвращайся на работу.</string>
     <string name="level16end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level17">Информация для 17 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level17">He`s like a sponge when it comes to soaking up information. - Он как губка, когда речь идет о впитывании информации. </string>
     <string name="level17end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level18">Информация для 18 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level18">Two broken ribs, shattered kneecap, fractured skull, and a broken orbital socket. - Два сломанных бедра, раздроблена коленная чашечка, сломан череп, и разбита глазница.</string>
     <string name="level18end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level19">Информация для 19 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level19">Running up stairs is bad for me. - Это не очень полезно для меня - бегать вверх по лестнице.</string>
     <string name="level19end">Поздравляю уровень пройден!!!! \n</string>
 
-    <string name="level20">Информация для 20 уровня \n Вопросы могут повторяться, пока вы не наберете 20 очков.</string>
+    <string name="level20">Thanks for the brochure in my mailbox - "Спасибо за эту брошюру, опущенную в мой почтовый ящик".</string>
     <string name="level20end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level21">I thought that rocket ship would remind you of him. - Я думал, что этот ракетный корабль напомнит вам о нем.</string>
+    <string name="level21end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level22">Looks like you need a butcher, not a surgeon. - Похоже, вам нужен мясник, а не хирург.</string>
+    <string name="level22end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level23">become bald — стать лысым</string>
+    <string name="level23end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level24">Maybe you do have brain damage. - Может, у тебя и правда повреждение мозга.</string>
+    <string name="level24end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level25">Don`t reproach him for listening to his heart. - Не упрекай его за то, что он слушал своё сердце.</string>
+    <string name="level25end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level26">He`s a lazy, drunk cable thief. - Он ленивый пьяный воришка.</string>
+    <string name="level26end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level27">Somehow he still lived like a king. - Каким-то образом он все еще жил как король.</string>
+    <string name="level27end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level28">Laughter and drink have done much to dispel darkening gloom. - Смех и выпивка сделали многое, чтобы развеять мрак затмения.</string>
+    <string name="level28end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level29">It`s one of my desert island books. - Это одна из книг, которую бы я взял на необитаемый остров.</string>
+    <string name="level29end">Поздравляю уровень пройден!!!! \n</string>
+
+    <string name="level30">He has admitted to being a True Way operative.- Он признался, что работает на "Истинный путь".</string>
+    <string name="level30end">Поздравляю! Вы прошли последний уровень! Если хотите больше уровней, поддержите приложение оставив свой комментарий! \n</string>
 
 
 </resources>

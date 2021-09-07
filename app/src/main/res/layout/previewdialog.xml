@@ -27,15 +27,16 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:id="@+id/previewimg"
-        android:src="@drawable/abc"
+
         android:layout_weight="60"
         android:layout_marginTop="10dp"/>
+
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="0dp"
+        android:layout_height="wrap_content"
         android:id="@+id/txtdescription"
         android:text="@string/level1"
-        android:layout_weight="30"
+        android:layout_weight="40"
         android:gravity="center"
         android:textColor="@color/black95"
         android:textSize="24sp"
@@ -45,7 +46,7 @@
     android:layout_height="0dp"
     android:id="@+id/button_continue"
     android:background="@drawable/button_strock_black95_press_white"
-    android:layout_weight="10"
+    android:layout_weight="20"
     android:text="@string/textcontinue"
     android:textColor="@color/black95"
     android:paddingLeft="10dp"
